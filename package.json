@@ -1,0 +1,10 @@
+{
+  "name": "text-utils",
+  "version": "1.2.0",
+  "description": "Lightweight text manipulation utilities",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "license": "MIT"
+}
